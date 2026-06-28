@@ -1,7 +1,7 @@
 const products = [
   {
     id: 1,
-    name: "Classic White T-Shirt",
+    name: "Classic T-Shirt",
     price: 2500,
     category: "Clothing",
     image: "T shirt.jpg",
