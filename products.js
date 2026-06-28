@@ -4,7 +4,7 @@ const products = [
     name: "Classic White T-Shirt",
     price: 2500,
     category: "Clothing",
-    image: "t shirt.jpg",
+    image: "T shirt.jpg",
     description: "A soft and stylish white t-shirt perfect for everyday casual wear."
   },
   {
